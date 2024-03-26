@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">R3_First</string>
+    <string name="button_text">CLick me</string>
+    <string name="sa_id_app">SA ID APP</string>
+    <string name="enter_the_id_here">Enter the id here...</string>
+    <string name="result_will_be_shown_here">Result will be shown here</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="id_can_t_be_empty">ID can\'t be empty</string>
+
+</resources>
